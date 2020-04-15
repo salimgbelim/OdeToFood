@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{845D041F-3F29-4018-B858-92281E0B3DDA}|Default">
+  <MonoDevelop.Ide.ItemProperties.OdeToFood PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OdeToFood/Startup.cs">
+    <Files>
+      <File FileName="OdeToFood.Data/IRestaurantData.cs" Line="15" Column="1" />
+      <File FileName="OdeToFood.Data/SqlRestaurantData.cs" Line="14" Column="10" />
+      <File FileName="OdeToFood.Data/OdeToFoodDbContext.cs" Line="14" Column="25" />
+      <File FileName="OdeToFood.Data/InMemoryRestaurantData.cs" Line="52" Column="1" />
+      <File FileName="OdeToFood.core/Restaurant.cs" Line="8" Column="18" />
+      <File FileName="OdeToFood/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OdeToFood" expanded="True">
+            <Node name="OdeToFood" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+            <Node name="OdeToFood.core" expanded="True" />
+            <Node name="OdeToFood.Data" expanded="True">
+              <Node name="Migrations" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>connectionString</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/salim.belim/Projects/OdeToFood/OdeToFood/Startup.cs" relfile="OdeToFood/Startup.cs" line="32" column="1" />
+      <Breakpoint file="/Users/salim.belim/Projects/OdeToFood/OdeToFood/Startup.cs" relfile="OdeToFood/Startup.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
