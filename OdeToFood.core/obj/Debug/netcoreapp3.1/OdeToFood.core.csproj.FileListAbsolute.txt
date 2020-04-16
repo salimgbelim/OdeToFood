@@ -1,9 +1,9 @@
 /Users/salim.belim/Projects/OdeToFood/OdeToFood.core/bin/Debug/netcoreapp3.1/OdeToFood.core.deps.json
 /Users/salim.belim/Projects/OdeToFood/OdeToFood.core/bin/Debug/netcoreapp3.1/OdeToFood.core.dll
 /Users/salim.belim/Projects/OdeToFood/OdeToFood.core/bin/Debug/netcoreapp3.1/OdeToFood.core.pdb
-/Users/salim.belim/Projects/OdeToFood/OdeToFood.core/obj/Debug/netcoreapp3.1/OdeToFood.core.csprojAssemblyReference.cache
 /Users/salim.belim/Projects/OdeToFood/OdeToFood.core/obj/Debug/netcoreapp3.1/OdeToFood.core.csproj.CoreCompileInputs.cache
 /Users/salim.belim/Projects/OdeToFood/OdeToFood.core/obj/Debug/netcoreapp3.1/OdeToFood.core.AssemblyInfoInputs.cache
 /Users/salim.belim/Projects/OdeToFood/OdeToFood.core/obj/Debug/netcoreapp3.1/OdeToFood.core.AssemblyInfo.cs
 /Users/salim.belim/Projects/OdeToFood/OdeToFood.core/obj/Debug/netcoreapp3.1/OdeToFood.core.dll
 /Users/salim.belim/Projects/OdeToFood/OdeToFood.core/obj/Debug/netcoreapp3.1/OdeToFood.core.pdb
+/Users/salim.belim/Projects/OdeToFood/OdeToFood.core/obj/Debug/netcoreapp3.1/OdeToFood.core.csprojAssemblyReference.cache

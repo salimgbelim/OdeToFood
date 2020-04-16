@@ -1,4 +1,6 @@
 /Users/salim.belim/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.deps.json
+/Users/salim.belim/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.runtimeconfig.json
+/Users/salim.belim/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.runtimeconfig.dev.json
 /Users/salim.belim/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.dll
 /Users/salim.belim/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.pdb
 /Users/salim.belim/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.core.dll
@@ -10,6 +12,4 @@
 /Users/salim.belim/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.csproj.CopyComplete
 /Users/salim.belim/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.dll
 /Users/salim.belim/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.pdb
-/Users/salim.belim/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.runtimeconfig.json
-/Users/salim.belim/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.runtimeconfig.dev.json
 /Users/salim.belim/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.genruntimeconfig.cache
