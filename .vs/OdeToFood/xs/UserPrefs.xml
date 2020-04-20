@@ -1,32 +1,19 @@
 ﻿<Properties StartupConfiguration="{845D041F-3F29-4018-B858-92281E0B3DDA}|Default">
   <MonoDevelop.Ide.ItemProperties.OdeToFood PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="OdeToFood/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OdeToFood/OdeToFood.csproj">
     <Files>
-      <File FileName="OdeToFood/ViewComponents/RestaurantCountViewComponent.cs" Line="9" Column="9" />
-      <File FileName="OdeToFood/Pages/Shared/Components/RestaurantCount/Count.cshtml" Line="6" Column="7" />
-      <File FileName="OdeToFood/Pages/_ViewImports.cshtml" Line="4" Column="12" />
-      <File FileName="OdeToFood/Pages/Shared/_Layout.cshtml" Line="50" Column="33" />
-      <File FileName="OdeToFood/Startup.cs" Line="22" Column="1" />
+      <File FileName="OdeToFood/Startup.cs" Line="1" Column="1" />
+      <File FileName="OdeToFood/Pages/Restaurants/List.cshtml" Line="15" Column="27" />
+      <File FileName="OdeToFood/Pages/Restaurants/List.cshtml.cs" Line="15" Column="1" />
+      <File FileName="OdeToFood/appsettings.json" Line="10" Column="40" />
+      <File FileName="OdeToFood/appsettings.Development.json" Line="11" Column="1" />
+      <File FileName="OdeToFood/OdeToFood.csproj" Line="7" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="OdeToFood" expanded="True">
-            <Node name="OdeToFood" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="Restaurants" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="Components" expanded="True">
-                    <Node name="RestaurantCount" expanded="True" />
-                  </Node>
-                </Node>
-              </Node>
-              <Node name="ViewComponents" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
-            </Node>
-            <Node name="OdeToFood.Data" expanded="True">
-              <Node name="Migrations" expanded="True" />
-            </Node>
+            <Node name="OdeToFood" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>

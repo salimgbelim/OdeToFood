@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "nUnKRu0SIcKL+R6gu07OCxIIbALHjX46QbirEGnWRMVp4gTINvhqEzkL/lE8fU8zTY+26hf27XraT6zkr4yJpw==",
+  "dgSpecHash": "CunL9MkTIGlEg5acWyxl3/vIKDAZzdFV4ZG9DMtsqyB58JTNdoKyZb/EdwUqc59QM9bHB5IuqDmf+yzJTNLAww==",
   "success": true,
   "projectFilePath": "/Users/salim.belim/Projects/OdeToFood/OdeToFood.core/OdeToFood.core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/salim.belim/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/3.1.2/microsoft.netcore.app.runtime.osx-x64.3.1.2.nupkg.sha512",
+    "/Users/salim.belim/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/3.1.2/microsoft.aspnetcore.app.runtime.osx-x64.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

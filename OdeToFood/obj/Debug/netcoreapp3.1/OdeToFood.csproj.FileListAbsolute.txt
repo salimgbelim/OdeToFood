@@ -77,3 +77,14 @@
 /Users/salim.belim/Projects/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/OdeToFood.genruntimeconfig.cache
 /Users/salim.belim/Projects/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/Razor/Pages/Restaurants/mypartialview.cshtml.g.cs
 /Users/salim.belim/Projects/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/Components/RestaurantCount/Count.cshtml.g.cs
+/Users/salim.belim/Projects/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/Razor/Pages/Restaurants/ClientRestaurants.cshtml.g.cs
+/Users/salim.belim/Projects/OdeToFood/OdeToFood/bin/Debug/netcoreapp3.1/package-lock.json
+/Users/salim.belim/Projects/OdeToFood/OdeToFood/bin/Debug/netcoreapp3.1/package.json
+/Users/salim.belim/Projects/OdeToFood/OdeToFood/bin/Debug/netcoreapp3.1/OdeToCode.UseNodeModules.dll
+/Users/salim.belim/Projects/OdeToFood/OdeToFood/bin/Debug/netcoreapp3.1/publish/web.config
+/Users/salim.belim/Projects/OdeToFood/OdeToFood/bin/Debug/netcoreapp3.1/publish/appsettings.Development.json
+/Users/salim.belim/Projects/OdeToFood/OdeToFood/bin/Debug/netcoreapp3.1/publish/appsettings.json
+/Users/salim.belim/Projects/OdeToFood/OdeToFood/bin/Debug/netcoreapp3.1/publish/OdeToFood.deps.json
+/Users/salim.belim/Projects/OdeToFood/OdeToFood/bin/Debug/netcoreapp3.1/publish/OdeToFood.runtimeconfig.json
+/Users/salim.belim/Projects/OdeToFood/OdeToFood/bin/Debug/netcoreapp3.1/publish/package-lock.json
+/Users/salim.belim/Projects/OdeToFood/OdeToFood/bin/Debug/netcoreapp3.1/publish/package.json
